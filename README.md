@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine Learning and Natural Language Processing
 - 💞️ I’m looking to collaborate on Text Analytics Projects
 - 📫 How to reach me nicolo.pennucci@sns.it
+- Amateur Triathlete
 
 <!---
 nicolopennucci/nicolopennucci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
